@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:agatsa1/pricingPlans.git"
+    "url": "git@github.com:abhinav00041/loginApi_mocha_chai.git"
   },
   "dependencies": {
     "body-parser": "^1.16.0",
